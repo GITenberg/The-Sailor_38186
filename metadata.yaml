@@ -1,0 +1,32 @@
+_repo: The-Sailor_38186
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hottinger, W. A.
+    gutenberg_agent_id: '39301'
+    url: http://www.gutenberg.org/2009/agents/39301
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Snaith, J. C. (John Collis)
+    alias: Snaith, John Collis
+    birthdate: 1876
+    deathdate: 1936
+    gutenberg_agent_id: '37216'
+    url: http://www.gutenberg.org/2009/agents/37216
+description: ''
+gutenberg_issued: '2011-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: The Sailor
+url: http://www.gutenberg.org/ebooks/38186
